@@ -2,6 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Foundational Data Products Knowledge Inventory'
 theme = "hugo-theme-learn"
+ignoreErrors = ["error-remote-getcsv"]
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -9,4 +10,4 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 themeVariant = "usgs"
 
-ignoreErrors = ["error-remote-getcsv"]
+
