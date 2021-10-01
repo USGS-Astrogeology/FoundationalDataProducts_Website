@@ -8,3 +8,5 @@ home = ["HTML", "RSS", "JSON"]
 
 [params]
 themeVariant = "usgs"
+
+ignoreErrors = ["error-remote-getcsv"]
