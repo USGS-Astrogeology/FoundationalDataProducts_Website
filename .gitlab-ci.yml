@@ -17,4 +17,4 @@ deploy:
   only: 
     - main
   script:
-      - aws s3 sync public s3://asc-docs/foundationaldataproducts/
+      - aws s3 sync public s3://asc-docs/foundationaldataproducts
