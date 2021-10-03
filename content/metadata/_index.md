@@ -8,3 +8,4 @@ chapter = true
 
 > Metadata liberates us, liberates knowledge. - David Weinberger
 
+This section describes the quantitative and qualitative metadata that have been (or we believe should be) collected for the data products in this knowledge inventory. 
