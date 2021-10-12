@@ -22,9 +22,9 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
-
       - name: Build
         run: hugo --minify --baseURL=https://stac.astrogeology.usgs.gov/docs/
+        
       - name: Set AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
