@@ -23,7 +23,7 @@ jobs:
           hugo-version: 'latest'
           # extended: true
       - name: Build
-        run: hugo --minify --baseURL=https://stac.astrogeology.usgs.gov/docs/
+        run: hugo --minify --baseURL=https://fdp.astrogeology.usgs.gov
         
       - name: Set AWS credentials for upload
         uses: aws-actions/configure-aws-credentials@v1
