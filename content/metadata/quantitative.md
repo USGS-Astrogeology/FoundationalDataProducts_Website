@@ -2,7 +2,7 @@
 title: "Quantitative"
 date: 2021-09-28T11:27:47-07:00
 weight: 1
-draft: true
+draft: false
 ---
 
 The following quantitative metadata fields describe each data product.
