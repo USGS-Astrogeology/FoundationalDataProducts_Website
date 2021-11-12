@@ -7,7 +7,7 @@ weight: 1
 
 ### Welcome to the PSDI Foundational Data Products Knowledge Inventory
 
-This site hosts a curated listing or knowledge inventory of [foundational data products]({{< relref "_index.md#foundational-data-products" >}}) for most of the bodies in the solar system. A knowledge inventory is a systematic cataloging of the knowledge currently retained within an organization (e.g., planetary science) and can be used to identify gaps that can or should be fille (e.g., a missing product to support an upcoming scientific investigation or mission), or as an enumerated listing of data to include in a data portal. The collection of information about these foundational data products seeks to democratize their use and make them significantly more findable than previously known.
+This site hosts a curated listing or knowledge inventory of [foundational data products]({{< relref "_index.md#foundational-data-products" >}}) for most of the bodies in the solar system. A knowledge inventory is a systematic cataloging of the knowledge currently retained within an organization (e.g., planetary science) and can be used to identify gaps that can or should be filled (e.g., a missing product to support an upcoming scientific investigation or mission), or as an enumerated listing of data to include in a data portal. The collection of information about these foundational data products seeks to democratize their use and make them significantly more findable than previously known.
 
 A key component to use foundational data product is understanding their spatial efficacy. Spatial efficacy describes the ability for a data product to provide the intended results. Spatial efficacy varies by use case as different products have metadata attributes (e.g., spatial resolution) that are suitable for different analyses. Quantitative and qualitative metadata fields are defined and described in the [metadata]() section of this site.
 
@@ -23,7 +23,7 @@ The peer reviewed paper linked above is a snapshot of the current state of found
 This site is dependent upon data producers, data users, and the interested public to crowd source keeping the knowledge inventory up to date. The [contributing]() section of the site describes means to contribute updates to existing entries, new entries, and provides links to places to discuss entries.
 
 ### Future Improvements
-This knowledge inventory currently only covers foundational data products. In reality, an entire universe of [framework data products]() also exist. As [Planetary Spatial Data Infrastructures](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EA000411) are developed users will require a combination of discoverable foundational and framework data products in order to effectively carry out their engineering and scientific investigations. The first step in making those data [FAIR](https://www.go-fair.org/fair-principles/)ly available is to know that they exist. This effort will, in the future, include framework products as well to help bootstrap the creation of centralized data clearinghouse and PSDIs.
+This knowledge inventory currently only covers foundational data products. In reality, an entire universe of [framework data products]() also exist. As [Planetary Spatial Data Infrastructures](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EA000411) are developed users will require a combination of discoverable foundational and framework data products in order to effectively carry out their engineering and scientific investigations. The first step in making those data [FAIRly](https://www.go-fair.org/fair-principles/) available is to know that they exist. This effort will, in the future, include framework products as well to help bootstrap the creation of centralized data clearinghouse and PSDIs.
 
 ### Foundational Data Products
 Foundational data products meet two criteria as defined by [Laura & Beyer (2021)](https://iopscience.iop.org/article/10.3847/PSJ/abcb94). 
@@ -39,8 +39,7 @@ The knowledge inventory presented on this site contains the best available found
 ### Citing this work
 If you use information from this website in your work, please consider citing [Knowledge Inventory of Foundational Data Products in Planetary Science](https://iopscience.iop.org/article/10.3847/PSJ/abcb94).
 
-```bibtex
-
+```
 @article{Laura_2021,
 	Abstract = {Some of the key components of any Planetary Spatial Data Infrastructure (PDSI) are the data products that end-users wish to discover, access, and interrogate. One precursor to the implementation of a PSDI is a knowledge inventory that catalogs what products are available, from which data producers, and at what initially understood data qualities. We present a knowledge inventory of foundational PSDI data products: geodetic coordinate reference frames, elevation or topography, and orthoimages or orthomosaics. Additionally, we catalog the available gravity models that serve as critical data for the assessment of spatial location, spatial accuracy, and ultimately spatial efficacy. We strengthen our previously published definitions of foundational data products to assist in solidifying a common vocabulary that will improve communication about these essential data products.},
 	Author = {Laura, Jason R. and Beyer, Ross A.},
