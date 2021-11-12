@@ -27,7 +27,7 @@ jobs:
           python -m pip install pyspelling
       - name: Install Hunspell
         run: |
-          sudo apt-get install hunspell hunspell-en
+          sudo apt-get install hunspell hunspell-en-us
       - name: Build documents
         run: |
           # Perform any documentation building that might be required
