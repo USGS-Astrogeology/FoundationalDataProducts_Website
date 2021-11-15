@@ -12,7 +12,7 @@ This section enumerates the foundational data products by major body. Each page 
 ---
 **Warning**
 
-In the initial release of this site, the references and links to online data are static (i.e., the do not work). In future updates, we will be making the reference links live to appropriate publisher websites and making links to the data available (largely from the cited works). We appreciate your patience while we update that information for this living knowledge inventory.
+In the initial release of this site, the references and links to online data are static (i.e., they do not work). In future updates, we will be making the reference links live to appropriate publisher websites and making links to the data available (largely from the cited works). We appreciate your patience while we update that information for this living knowledge inventory.
 
 ---
 

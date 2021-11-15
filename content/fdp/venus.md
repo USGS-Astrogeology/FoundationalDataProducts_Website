@@ -5,7 +5,5 @@ draft: false
 weight: 2
 ---
 
-Foundational data products for Venus. Text about them.
-
 {{< csv_table url="https://raw.githubusercontent.com/USGS-Astrogeology/FoundationalDataProducts/main/venus.csv" sep="," >}}
 
