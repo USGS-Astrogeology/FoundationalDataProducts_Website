@@ -1,10 +1,10 @@
-+++
+---
 title = "Archiving Gaps in Foundational Data Products"
 date = 2021-11-15T10:52:04-07:00
 weight = 10
 draft: true
 weight: 12
-+++
+---
 
 On this page, we enumerate products that, to the best of our knowledge, are not being stored in a Planetary Data System (PDS) archive or PDS equivalent archive (e.g, JAXA DARTS, USGS Image Annex). Some of these products are available on journal publisher websites or personal websites. Others are, to the best of our knowledge unreleased for the general public. These unreleased products have been described in one or more journal articles or abstracts. For each entry, please see the body specific foundational data product page for more information, such as citation. 
 
