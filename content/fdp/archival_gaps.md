@@ -31,7 +31,7 @@ We have omitted products collected by other space agencies (e.g., the CSA) when 
   - Murray Lab Global CTX (Dickson, et al.; California Institute of Technology)
 # Jupiter
   - Io Rand Control Network (Davies, et al.; USGS)
-  - Io Stereo-dervied DEM (White, et al.; AGU)
+  - Io Stereo-derived DEM (White, et al.; AGU)
   - Io Photoclinometry-derived DEM (White, et al.; AGU)
   - Europa Europa Supermosaic (Collins, et al.)
   - Ganymede RAND Control Network (Davies, et al.; USGS)
