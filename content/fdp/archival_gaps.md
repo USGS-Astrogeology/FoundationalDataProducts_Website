@@ -1,7 +1,6 @@
 ---
-title = "Archiving Gaps in Foundational Data Products"
-date = 2021-11-15T10:52:04-07:00
-weight = 10
+title: "Archiving Gaps in Foundational Data Products"
+date: 2021-11-15T10:52:04-07:00
 draft: true
 weight: 12
 ---
