@@ -16,7 +16,7 @@ In the initial release of this site, the references and links to online data are
 
 ---
 
-Foundational data products are:
+Foundational data products:
 
   1. Geodetic Coordinate Reference Frame (or Proxy) defines the reference frame to which all other products are referenced and is required in order to communicate the precise location of objects or places in relation to one another.
   1. Elevation products describe (ideally) the orthometric heights of objects or locations about some agreed upon vertical datum (or vertical reference frame).
@@ -25,7 +25,7 @@ Foundational data products are:
 ---
 **Note**
 
-See [Laura & Beyer (2021)](https://iopscience.iop.org/article/10.3847/PSJ/abcb94) for an in-depth discussion and appropriate citations for each of these foundational data products types. See the same publication for a full discussion of Image Mosaics and other by-products of foundational data products.
+See [Laura & Beyer (2021)](https://iopscience.iop.org/article/10.3847/PSJ/abcb94) for an in-depth discussion, appropriate citations for each of these foundational data products types, and for a full discussion of Image Mosaics and other by-products of foundational data products.
 
 ---
 
